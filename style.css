@@ -1,0 +1,15 @@
+.todocontainer{
+    vertical-align: middle;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+}
+.inputbox{
+    width: 100px;
+    height: 30px;
+    border-radius: 2px;
+}
+.addbtn{
+    border: solid black 4px;
+
+}
